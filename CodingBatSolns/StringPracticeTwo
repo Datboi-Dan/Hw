@@ -1,5 +1,5 @@
 
-public class String_CodingBat2 
+public class StringPracticeTwo
 {
 	
 	public String makeOutWord(String out, String word) 
