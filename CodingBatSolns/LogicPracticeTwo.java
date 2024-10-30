@@ -1,5 +1,5 @@
 
-public class LogicPractice2 
+public class LogicPracticeTwo 
 {
 	
 	/**
