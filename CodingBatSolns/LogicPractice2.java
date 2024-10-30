@@ -1,5 +1,5 @@
 
-public class Logic_CodingBat2 
+public class LogicPractice2 
 {
 	
 	/**
