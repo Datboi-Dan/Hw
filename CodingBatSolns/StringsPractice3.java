@@ -1,4 +1,4 @@
-public class StringCodingBat3
+public class StringsPracitce3
 {
 
   public String doubleChar(String str) 
